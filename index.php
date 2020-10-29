@@ -72,7 +72,7 @@
 		}
 		//Run paystack query
 		var handler = PaystackPop.setup({
-              key: 'pk_test_6f4b359d153b9ff2e31970e93cf5dd9054693d4e',
+              key: 'pk_key',
               email: email,
               amount: amount+'00',
               currency: "NGN",
