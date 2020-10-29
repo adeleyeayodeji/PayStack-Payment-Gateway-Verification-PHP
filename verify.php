@@ -11,7 +11,7 @@ curl_setopt_array($curl, array(
     CURLOPT_HTTP_VERSION => CURL_HTTP_VERSION_1_1,
     CURLOPT_CUSTOMREQUEST => "GET",
     CURLOPT_HTTPHEADER => array(
-    "Authorization: Bearer sk_test_49dbf0b252a17f1215cbd4ffe3b7e21cbad45e1c",
+    "Authorization: Bearer sk_key",
     "Cache-Control: no-cache",
     ),
 ));
